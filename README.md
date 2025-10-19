@@ -1,5 +1,6 @@
 # Practicas_LPOO_AJMH
 Aquí van las practicas del Laboratorio de Programación Orientada a Objetos de Ángel Joseph Meraz Hernández matricula 2067151
+
 **Instalación y configuración del JDK 25**
  1. Ingresar a esta página https://www.oracle.com/java/technologies/downloads/?er=221886.
  2. Buscar al apartado *Java SE Development Kit 25 downloads* y en la tabla que dice Linux, Mac y Whindows elegimos esta última opción.
@@ -13,6 +14,7 @@ Aquí van las practicas del Laboratorio de Programación Orientada a Objetos de 
  10. En la nueva ventana, presionamos el botón que die *Nuevo* y escribimos "C:\Program Files\Java\jdk-25\bin", luego presionamos el botón *Subir* hasta que lo que acabamos de escribir quede hasta arriba de la ventana y presionamos *Aceptar* en la parte de abajo.
  11. En las otras 2 ventanas también ya terminamos así que presionamos *Aceptar* en ellas.
  12. Ahora abrimos el *Símbolo del sistema*, abriéndolo con la barra de búsqueda de Windows y escribiendo "cmd", escribimos "java -version", si todo quedo bien debería escribirse algo como *java version "25" 2025-09-16 LTS* y poca cosa más.
+
 **Instalación y configuración del IDE Apache NetBeans IDE 27**
 1. Ingresar a esta página https://netbeans.apache.org/front/main/download/
 2. Presionamos el primer botón que dice *Download*.
