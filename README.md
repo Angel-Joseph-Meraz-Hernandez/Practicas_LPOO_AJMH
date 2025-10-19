@@ -1,6 +1,6 @@
 # Practicas_LPOO_AJMH
 Aquí van las practicas del Laboratorio de Programación Orientada a Objetos de Ángel Joseph Meraz Hernández matricula 2067151
- **Instalación y configuración del JDK 25**
+**Instalación y configuración del JDK 25**
  1. Ingresar a esta página https://www.oracle.com/java/technologies/downloads/?er=221886.
  2. Buscar al apartado *Java SE Development Kit 25 downloads* y en la tabla que dice Linux, Mac y Whindows elegimos esta última opción.
  3. En segundo renglón, que dice "x64 Installer", presionar el enlace (https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.exe) para descargar el ejecutable.
