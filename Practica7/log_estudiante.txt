@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-11-16T01:56:00.310090Z</date>
+  <millis>1763258160310</millis>
+  <nanos>90000</nanos>
+  <sequence>0</sequence>
+  <logger>LogMeraz</logger>
+  <level>SEVERE</level>
+  <class>Practica7.SistemaBancoAJMH</class>
+  <method>validarMatricula</method>
+  <thread>1</thread>
+  <message>Error de matricula: La matricula debe tener exactamente 8 caracteres</message>
+</record>
+<record>
+  <date>2025-11-16T01:56:00.431088900Z</date>
+  <millis>1763258160431</millis>
+  <nanos>88900</nanos>
+  <sequence>1</sequence>
+  <logger>LogMeraz</logger>
+  <level>WARNING</level>
+  <class>Practica7.SistemaBancoAJMH</class>
+  <method>verificarSaldo</method>
+  <thread>1</thread>
+  <message>Saldo insuficiente. Saldo: 200.0, Retiro: 300.0</message>
+</record>
+<record>
+  <date>2025-11-16T01:56:00.437091400Z</date>
+  <millis>1763258160437</millis>
+  <nanos>91400</nanos>
+  <sequence>2</sequence>
+  <logger>LogMeraz</logger>
+  <level>INFO</level>
+  <class>Practica7.SistemaBancoAJMH</class>
+  <method>buscarUsuario</method>
+  <thread>1</thread>
+  <message>Usuario no encontrado: B999</message>
+</record>
+</log>
